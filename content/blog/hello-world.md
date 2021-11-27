@@ -1,5 +1,5 @@
 ---
-path: blogposts
+path: blog
 date: 2021-11-26T19:57:48.339Z
 title: Hello World!
 description: My name is Megan (but you can also call me Meg!). It's nice to meet you.
